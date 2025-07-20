@@ -2,7 +2,7 @@ import requests
 import re
 import time
 import os
-
+import random
 os.system('cls' if os.name == 'nt' else 'clear')
 
 def visual_delay(t):
